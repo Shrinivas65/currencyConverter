@@ -34,7 +34,7 @@ https://app.exchangerate-api.com/
 
 trial url
 https://v6.exchangerate-api.com/v6/key/latest/USD
-login to exchangerate-api.com to get the key add it to url for conversion 
+login to exchangerate-api.com to get the key edit it to BASE_URL in Script.js file to run the project locally
 
 
 
