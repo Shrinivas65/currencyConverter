@@ -1,4 +1,4 @@
-const BASE_URL='https://v6.exchangerate-api.com/v6/18f6505e3d982272c8c12c43/latest'
+const BASE_URL='https://v6.exchangerate-api.com/v6/key/latest'
 const dropdowns = document.querySelectorAll('.dropdown select');
 const fromcurr = document.querySelector('.from select');
 const tocurr = document.querySelector('.to select');
